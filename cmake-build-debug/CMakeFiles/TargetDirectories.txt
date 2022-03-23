@@ -1,0 +1,3 @@
+/mnt/c/Users/barak/Documents/GitHub/C++NoteBook-a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/barak/Documents/GitHub/C++NoteBook-a/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/barak/Documents/GitHub/C++NoteBook-a/cmake-build-debug/CMakeFiles/C__NoteBook_a.dir

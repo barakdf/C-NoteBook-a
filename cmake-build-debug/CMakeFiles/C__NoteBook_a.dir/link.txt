@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/C__NoteBook_a.dir/Notebook.cpp.o CMakeFiles/C__NoteBook_a.dir/Test.cpp.o  -o C__NoteBook_a 
